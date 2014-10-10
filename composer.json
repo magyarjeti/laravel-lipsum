@@ -1,12 +1,6 @@
 {
     "name": "magyarjeti/laravel-lipsum",
     "description": "Lorem ipsum generator for Laravel Framework",
-    "authors": [
-        {
-            "name": "Magyar Jeti Zrt.",
-            "email": "gelka@444.hu"
-        }
-    ],
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.1.*",
