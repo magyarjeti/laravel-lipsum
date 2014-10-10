@@ -27,7 +27,7 @@ php composer.phar update
 ### CLI only
 
 ```bash
-php composer.phar require magyarjeti/laravel-mongo dev-master
+php composer.phar require magyarjeti/laravel-lipsum dev-master
 ```
 
 ## Setup
