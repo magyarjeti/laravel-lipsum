@@ -3,7 +3,7 @@
     "description": "Lorem ipsum generator for Laravel Framework",
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.1.*",
+        "illuminate/support": "4.*",
         "magyarjeti/loripsum-client": "v2.0"
     },
     "autoload": {
